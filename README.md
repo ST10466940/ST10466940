@@ -22,7 +22,7 @@ This app helps users quickly decide what to eat based on the time of day. It's d
    - Responsive design
 
 3. **Visual Design**:
-   - Purple color theme for a friendly appearance
+   - Design friendly color theme for a UI
    - Rounded corners for modern look
    - Clear typography hierarchy
 
